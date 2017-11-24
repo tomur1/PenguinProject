@@ -1,2 +1,2 @@
 # PenguinProject
-Penguin project git\n lol
+Penguin project git
