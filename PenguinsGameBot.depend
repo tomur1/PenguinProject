@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512835542 source:c:\users\tomur\documents\project penguin\penguinsgamebot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1514909033 source:c:\users\tomur\documents\penguinsgamebot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"boardGaneration.h"
+	"movementValidation.h"
+
+1514908131 source:c:\users\tomur\documents\penguinsgamebot\boardganeration.c
+	"boardGaneration.h"
+
+1514908131 c:\users\tomur\documents\penguinsgamebot\boardganeration.h
+
+1513184121 c:\users\tomur\documents\penguinsgamebot\movementvalidation.h
+
+1513252111 source:c:\users\tomur\documents\penguinsgamebot\movementvalidation.c
+	"movementValidation.h"
+
